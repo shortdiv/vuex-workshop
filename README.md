@@ -37,6 +37,7 @@ There's a directory you can use as a Vue-CLI starter kit:
 ## Vuex Resources
 
 - [Vuex docs](https://vuex.vuejs.org/en/)
+- [Understanding Vue 3 Closures](https://www.youtube.com/watch?v=KJP1E-Y-xyo)
 
 There's a directory you can use as a Vuex starter kit:
 
